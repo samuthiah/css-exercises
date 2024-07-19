@@ -1,0 +1,19 @@
+.par {
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.par3 {
+    font-size: 24px;
+}
+
+#number_2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#number_4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
